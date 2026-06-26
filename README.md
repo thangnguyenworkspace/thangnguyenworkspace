@@ -1,17 +1,18 @@
-### Go-to-market operator who builds his own tooling
+<div align="center">
+  <a href="https://davidnguyen.io">
+    <img src="assets/banner.svg" alt="David Nguyen: GTM engineer who builds his own tooling. I close partnership revenue, then build the agents that run the motion behind it." width="100%">
+  </a>
+</div>
 
-I close partnership revenue, then write the agents that run the motion behind it: account research, intent detection, outreach. The repos below are the working proof.
+Business development operator who builds his own GTM systems. I learned the revenue motion by running one, closing partnership deals from first touch to signature, and I build the agents that multiply it. Since late 2025 that has meant agentic outbound end to end: account research, intent detection, personalization, and outreach.
+
+### Track record
+
+- 💰 Intern to **Head of Business Development** in ~2.5 years; closed **$220K+** in partnership revenue and grants with leading Layer-1 ecosystems (Sui, NEAR, Polkadot, Algorand, and more).
+- 🛠️ Built the tooling the BD function ran on: an **Apps Script operations platform** (project setup, dashboards, proposal and contract generation) and an **AI proposal workflow** that cut turnaround ~70% (3 to 4 days to same-day).
+- 🎤 **President, RMIT FinTech Club**: led the flagship FinTech Blockchain Forum (350+ attendees; speakers from Binance, OKX, Solana, and Dragon Capital).
+- 🏆 **LotusHack 2026**: EdTech track runner-up, 7th overall of 200+ teams (product and front-end lead).
 
 ---
 
-**The two flagships**
-
-**[industry-pulse](https://github.com/thangnguyenworkspace/industry-pulse)** · *runnable*
-A watchlist-driven intelligence pipeline you run on demand. It crawls LinkedIn, X, RSS, and email, classifies every post in parallel, and writes one neutral signals brief; your own relevance layer attaches at a documented seam. **What it proves:** a working multi-source AI pipeline, runnable from a clean clone, with the heavy reading kept off the thread doing the synthesis so it scales.
-
-**[research-engine](https://github.com/thangnguyenworkspace/research-engine)** · *reproducible*
-A research engine that argues with its own findings and shows its work. An independent verifier can refuse a claim the evidence does not support, every source carries a why-I-trusted-it log, and a deterministic controller decides each step rather than an opaque "the model decides." **What it proves:** research rigor as engineering. Verification and source-selection are inspectable artifacts, and the whole run reproduces from the inputs in the repo.
-
----
-
-**Elsewhere:** [davidnguyen.io](https://davidnguyen.io) · [LinkedIn](https://linkedin.com/in/nguyenvucongthang) · [thangnguyen.workspace@gmail.com](mailto:thangnguyen.workspace@gmail.com)
+**Elsewhere:** [Full CV](https://davidnguyen.io/cv) · [davidnguyen.io](https://davidnguyen.io) · [LinkedIn](https://linkedin.com/in/nguyenvucongthang) · [thangnguyen.workspace@gmail.com](mailto:thangnguyen.workspace@gmail.com)
