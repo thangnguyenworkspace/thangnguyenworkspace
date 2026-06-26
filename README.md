@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://davidnguyen.io">
-    <img src="assets/banner.svg" alt="David Nguyen: GTM engineer who builds his own tooling. I close partnership revenue, then build the agents that run the motion behind it." width="100%">
+    <img src="assets/banner.png" alt="David Nguyen: GTM engineer who builds his own tooling. I close partnership revenue, then build the agents that run the motion behind it." width="100%">
   </a>
 </div>
 
