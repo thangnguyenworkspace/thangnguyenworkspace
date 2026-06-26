@@ -8,10 +8,14 @@ Business development operator who builds his own GTM systems. I learned the reve
 
 ### Track record
 
-- 💰 Intern to **Head of Business Development** in ~2.5 years; closed **$220K+** in partnership revenue and grants with leading Layer-1 ecosystems (Sui, NEAR, Polkadot, Algorand, and more).
-- 🛠️ Built the tooling the BD function ran on: an **Apps Script operations platform** (project setup, dashboards, proposal and contract generation) and an **AI proposal workflow** that cut turnaround ~70% (3 to 4 days to same-day).
-- 🎤 **President, RMIT FinTech Club**: led the flagship FinTech Blockchain Forum (350+ attendees; speakers from Binance, OKX, Solana, and Dragon Capital).
-- 🏆 **LotusHack 2026**: EdTech track runner-up, 7th overall of 200+ teams (product and front-end lead).
+💰 **Head of Business Development · GFI Group · 2023 to 2025**<br>
+Joined as an intern and was promoted to Head of BD within about two and a half years. Closed $220K+ in partnership revenue and grants with leading Layer-1 ecosystems, including Sui, NEAR, Polkadot, and Algorand, and built the function's internal tooling along the way: an Apps Script operations platform and an AI proposal workflow that cut proposal turnaround by roughly 70%.
+
+🎤 **President · RMIT FinTech Club · 2022 to 2023**<br>
+Led the executive team and the club's flagship FinTech Blockchain Forum, which drew 350+ attendees and speakers from Binance, OKX, Solana, and Dragon Capital.
+
+🏆 **LotusHack 2026 · EdTech Track Runner-Up**<br>
+Finished 7th overall out of 200+ teams, leading the front end and the presentation for a four-person team.
 
 ---
 
