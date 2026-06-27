@@ -1,10 +1,15 @@
 <div align="center">
   <a href="https://davidnguyen.io">
-    <img src="assets/banner.png" alt="David Nguyen: GTM engineer who builds his own tooling. I close partnership revenue, then build the agents that run the motion behind it." width="100%">
+    <img src="assets/machine-room.png" alt="The Machine Room. Four live AI and GTM systems: Deep Research on Demand (a 174-source synthesis from one question), Always-On Market Intelligence (107 signals condensed from about 100 sources across four channels into a daily brief), How I Ship Software (a gated seven-stage spec-to-ship pipeline), and AI-Native Outbound (about $200K closed by hand, then turned into the machine that multiplies the motion)." width="100%">
   </a>
 </div>
 
-Business development operator who builds his own GTM systems. I learned the revenue motion by running one, closing partnership deals from first touch to signature, and I build the agents that multiply it. Since late 2025 that has meant agentic outbound end to end: account research, intent detection, personalization, and outreach.
+I close partnership revenue, then build the systems that multiply the motion. Four of them are live above.
+
+**Exhibits** → [Deep Research](https://davidnguyen.io/research) · [Market Intelligence](https://davidnguyen.io/intelligence) · [Ship Pipeline](https://davidnguyen.io/build) · [Outbound](https://davidnguyen.io/outbound)<br>
+**Open source** → [industry-pulse](https://github.com/thangnguyenworkspace/industry-pulse) · [research-engine](https://github.com/thangnguyenworkspace/research-engine)
+
+---
 
 ### Track record
 
