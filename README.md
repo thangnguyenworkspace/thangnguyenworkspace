@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://davidnguyen.io">
-    <img src="assets/machine-room.png" alt="The Machine Room. Four live AI and GTM systems: Deep Research on Demand (a 174-source synthesis from one question), Always-On Market Intelligence (107 signals condensed from about 100 sources across four channels into a daily brief), How I Ship Software (a gated seven-stage spec-to-ship pipeline), and AI-Native Outbound (about $200K closed by hand, then turned into the machine that multiplies the motion)." width="100%">
+    <img src="assets/machine-room-live.png" alt="The Machine Room. Four live AI and GTM systems: Deep Research on Demand (a 174-source synthesis from one question), Always-On Market Intelligence (107 signals condensed from about 100 sources across four channels into a daily brief), How I Ship Software (a gated seven-stage spec-to-ship pipeline), and AI-Native Outbound (about $200K closed by hand, then turned into the machine that multiplies the motion)." width="100%">
   </a>
 </div>
 
