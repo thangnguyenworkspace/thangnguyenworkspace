@@ -15,7 +15,7 @@ I'm a business development operator focused on partnerships, revenue growth, and
 
 ---
 
-### Track record
+## Track record
 
 💰 **Head of Business Development · GFI Group · 2023 to 2025**<br>
 Joined as an intern and was promoted to Head of BD within about two and a half years. Closed $220K+ in partnership revenue and grants with leading Layer-1 ecosystems, including Sui, NEAR, Polkadot, and Algorand, and built the function's internal tooling along the way: an Apps Script operations platform and an AI proposal workflow that cut proposal turnaround by roughly 70%.
